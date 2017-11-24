@@ -2,6 +2,7 @@
 
 ## Labs :
 - Lab1 : Introduction and Bayesian Regression (Posterior distribution, Predictive distribution, log-evidence of the hyper parameters)
+- Lab2 : 
 
 ## Lectures 
 Lectures of this class follows the Bishop book "Pattern Recognition and Machine Learning" on the following chapters:
