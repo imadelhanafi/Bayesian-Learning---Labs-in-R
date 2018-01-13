@@ -3,7 +3,7 @@ Imad El Hanafi
 
 # Part 1. Preliminaries
 
-We start first by importing all our auxiliary functions implemented in *EL-HanafiImad_functions.R* and all necessary libraries (I am using R version 3.2.3, this is why there is some warnings when we load the libraries but it has no impact on our code).
+We start first by importing all our auxiliary functions implemented in *EL-HanafiImad_functions.R* and all necessary libraries.
 
 
 
@@ -12,16 +12,8 @@ We start first by importing all our auxiliary functions implemented in *EL-Hanaf
 library(MASS)
 ```
 
-```
-## Warning: package 'MASS' was built under R version 3.2.5
-```
-
 ```r
 library(abind)
-```
-
-```
-## Warning: package 'abind' was built under R version 3.2.5
 ```
 
 ```r
@@ -36,17 +28,10 @@ library(mnormt)
 library(LaplacesDemon)
 ```
 
-```
-## Warning: package 'LaplacesDemon' was built under R version 3.2.5
-```
-
 ```r
 library(coda)
 ```
 
-```
-## Warning: package 'coda' was built under R version 3.2.5
-```
 
 ```r
 source("EL-HanafiImad_functions.R")
