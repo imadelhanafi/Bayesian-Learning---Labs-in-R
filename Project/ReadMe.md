@@ -1,7 +1,7 @@
 #  LAB 2- Bayesian learning: GAUSSIAN MIXTURES 
 Imad El Hanafi  
 
-## GitHub does not support Latex Formulas in MarkDown. Please visit the following link to see all Mathematical formulas : https://goo.gl/aYcpzx
+## GitHub does not support Latex Formulas in MarkDown. Please visit the following link to see all Mathematical formulas : https://stackedit.io/viewer#!url=https://imadelhanafi.com/Bayesian-Learning-Algorithms/Project/ReadMe.md
 
 # Part 1. Preliminaries
 
